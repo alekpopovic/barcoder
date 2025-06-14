@@ -1,8 +1,7 @@
-# Barcoder
+# Barcoder ![screenshot](barcode.svg)
 
 [![Elixir CI](https://github.com/alekpopovic/barcoder/actions/workflows/elixir.yml/badge.svg)](https://github.com/alekpopovic/barcoder/actions/workflows/elixir.yml)
 
-![screenshot](barcode.svg)
 
 ## Installation
 
